@@ -1,8 +1,9 @@
 On 
+ - ``` Windows 7 ```
+ - ``` PowerShell 2.0 ```
  - ``` node 4.2.0 ```
  - ``` npm 3.5.2 ```
- - ``` PowerShell 2.0 ```
-  
+ 
 
 running:
 
